@@ -14,7 +14,8 @@ mention the description here , mention what does your prototype does  , make sur
 |---------|-----------------|
 |Aakash Beri | aakashberi4809@gmail.com |
 | Chandra Sekhar | 9921004363@klu.ac.in |
-| Lalith madhav | lalithmadhav7875@gmail.com |
+| Ganji Lalith madhav | lalithmadhav7875@gmail.com |
+| Venkatappa Reddy | 9921004203@klu.ac.in |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
@@ -48,7 +49,7 @@ The whole proble of smart grid management was divided into 3 subparts
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
-`sci-kit learn` , `streamlit` , `python` , `tech stack 1` , `tech stack 2`
+`pandas` , `sci-kit learn` , `streamlit` , `python` , `tech stack 1` , `tech stack 2`
 
 ## How to run locally 
 If you want you can run this program in the virtual python environment

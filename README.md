@@ -59,6 +59,7 @@ myenv\Scrits\activate.bat
 - step 1 : clone the repo and istall 
 ```
 pip install scikit-learn
+pip install pandas
 pip install joblib
 pip install streamlit
 ```
@@ -72,4 +73,4 @@ As of now only the Machine Learning was implemented in this project and an exten
 There is already a intemediate phase of energy integration exists , we should be minimizing the cost and engineering before our next update.
 
 ## Declaration
-We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
+We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.We attended the Vashist hackathon 2024 on 15-03-2024 to 17-03-2024 at IIIT Kanchipuram.

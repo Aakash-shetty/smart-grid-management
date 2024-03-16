@@ -13,8 +13,8 @@ mention the description here , mention what does your prototype does  , make sur
 | Name    | Email           |
 |---------|-----------------|
 |Aakash Beri | aakashberi4809@gmail.com |
-| Chandra Sekhar | person2@gmail.com |
-| Lalith madhav | person3@gmail.com |
+| Chandra Sekhar | 9921004363@klu.ac.in |
+| Lalith madhav | lalithmadhav7875@gmail.com |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">

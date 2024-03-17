@@ -43,13 +43,13 @@ The whole proble of smart grid management was divided into 3 subparts
 - Future prediction of solar power generation using Machine Learning techniques
 - Efficient energy distributio using Intelligent Distribution Algorithms
 - User Interface to manage and visualize the Intelligent Decisions of the grid
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+
 
 ## Techstacks used 
 `sci-kit learn` , `streamlit` , `python` , `tech stack 1` , `tech stack 2`
 
 ## How to run locally 
-If you want you can run this program in the virtual python environment
+If you want you can run this program in the python virtual environment
 ```
 python -m venv myenv
 myenv\Scrits\activate.bat

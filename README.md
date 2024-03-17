@@ -17,10 +17,10 @@ mention the description here , mention what does your prototype does  , make sur
 | Lalith madhav | lalithmadhav7875@gmail.com |
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/img1.png" alt="Image 1" style="width: 40%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/img2.png" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/img3.png" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/Solar-Power-Monitoring-Control.jpg" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/Solar-Power-Monitoring-Control.jpg" alt="Image 0" style="width: 50%; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/img1.png" alt="Image 1" style="width: 50%; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/img2.png" alt="Image 2" style="width: 50%; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/img3.png" alt="Image 3" style="width: 50%; margin: 10px;">  
 </div>
 
 ## Problem statement 
@@ -61,7 +61,8 @@ pip install joblib
 pip install streamlit
 ```
 or 
-` pip install requirements.txt`
+` pip install -r requirements.txt`
+
 -running the code 
 `streamlit run app.py`
 

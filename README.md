@@ -2,19 +2,11 @@
     <b>
         <a href="https://www.google.com"> Smart Grid Management </a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+    ⭐️Machine Learning and Clean Energy⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
-mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
-## Team Details
-`Team number` : VH104
 
-| Name    | Email           |
-|---------|-----------------|
-|Aakash Beri | aakashberi4809@gmail.com |
-| Chandra Sekhar | 9921004363@klu.ac.in |
-| Lalith madhav | lalithmadhav7875@gmail.com |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/Aakash-shetty/smart-grid-management/main/Images/Solar-Power-Monitoring-Control.jpg" alt="Image 0" style="width: 50%; margin: 10px;">
@@ -38,7 +30,7 @@ Here are the solutions to mitigate these problems to implement the smart grid ma
 **1.Integration Challenges**: The solar PV cells power generation was a intermitent power generation which means it is not a constant power generation(consistently). So integrating the solar power into the existing online grid is a tedious and very difficult task involving heavy engineering. So instead of directly exporting the power we propose a intermediate phase where the generated power was stored and made synchronize with the grids current wave phases. The intermediate phase is the heart of integrating the renewable energy and traditional grid, so it should definitely have the major data corresponds to making inttelligent decisions. So given the machine Learning predicted output of total power generation of the day  by our Machine Learning model, the intermediate phase will efficiently integrate with having knowledge of past exported amount, present exporting amount and future generation amount of electricity.                                                            
 **2.Distribution Challenges**: The adoption of renewable energy, espically solar pv will iteslf decrease the amount of energy losses happening at the transformers and many other converters by directly generating the power we want at the intermedaite phase of integration. By using the proper distribution algorithms we can also decrese the transmission losses and can acheive the optimal distribution also meeting the energy demand of the world in a more efficient mannar.        
 **3.Management challenges**:There is an incresing demand for electricity and the generation of the electricity by fossile fuels was decresing and the renewable energy resources were increasing, but the integration of these two energies and management of such a heavy demand supply was very difficult. Adopting these changes within a short period of time is difficult and the adoption over a large network of well established traditional grid was very difficult
-## Technical implemntaion**:  
+## Technical implemntaion:  
 The whole proble of smart grid management was divided into 3 subparts
 - Future prediction of solar power generation using Machine Learning techniques
 - Efficient energy distributio using Intelligent Distribution Algorithms
@@ -46,7 +38,7 @@ The whole proble of smart grid management was divided into 3 subparts
 
 
 ## Techstacks used 
-`sci-kit learn` , `streamlit` , `python` , `tech stack 1` , `tech stack 2`
+`sci-kit learn` , `streamlit` , `python` 
 
 ## How to run locally 
 If you want you can run this program in the python virtual environment
